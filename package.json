@@ -1,0 +1,17 @@
+{
+  "name": "warehousebot_gui",
+  "version": "1.0.0",
+  "description": "A package for viewing robot status ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Usagi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  },
+  "dependencies": {
+    "rclnodejs": "^0.22.2"
+  }
+}
