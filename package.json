@@ -9,9 +9,10 @@
   "author": "Usagi",
   "license": "ISC",
   "devDependencies": {
+    "@electron/rebuild": "^3.2.13",
     "electron": "^25.3.2"
   },
   "dependencies": {
-    "rclnodejs": "^0.22.2"
+    "rclnodejs": "^0.22.1"
   }
 }
