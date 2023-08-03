@@ -1,0 +1,17 @@
+#main_header {
+    color: white;
+    font-size: 50px;
+    margin: auto;
+}
+
+#circle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+body {
+    background-color: black;
+}
